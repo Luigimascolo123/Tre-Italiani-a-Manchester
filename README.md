@@ -43,24 +43,24 @@ Assicurati di avere installato: **Python 3**
 Librerie: **Pandas, Numpy, Seaborn, Matplotlib**
 
 2️⃣ Clonare il repository
+Clone repository and start services
+git clone [repository_URL]
+cd [file Jupyter d'interesse]
 
 3️⃣ Eseguire il notebook
-Apri il file Progetto_Tre_italiani_a_Manchester.ipynb in Google Colab o Jupyter Notebook e segui le istruzioni.
+Apri il file Progetto_Tre_italiani_a_Manchester.ipynb/Arsenal_AI_assistant.ipynb in Google Colab o Jupyter Notebook e segui le istruzioni.
 
 ## 🌟 Risultati principali
-Numero totale di squadre: 20
 
-Numero totale di partite analizzate: 380
+- Numero totale di partite analizzate: 380
 
-Eventi totali processati: 607.656
+- Eventi totali processati: 607.656
 
-Feature chiave analizzate:
+- Coordinate spaziali degli eventi (x, y, endX, endY)
 
-Coordinate spaziali degli eventi (x, y, endX, endY)
+- Eventi correlati e giocatori coinvolti
 
-Eventi correlati e giocatori coinvolti
-
-Riconoscimento di eventi chiave come tiri, gol e passaggi
+- Riconoscimento di eventi chiave come tiri, gol e passaggi
 
 ## 📊 Esempi di visualizzazioni
 🔥 Heatmap degli eventi sul campo
@@ -69,14 +69,9 @@ Riconoscimento di eventi chiave come tiri, gol e passaggi
 📈 Statistiche delle squadre
 📌 Confronta le performance delle diverse squadre della Premier League.
 
-## 🤝 Contributi
-Hai idee o suggerimenti per migliorare il progetto?
-Sentiti libero di aprire una issue o inviare una pull request!
-
 ## 📧 Contatti
 Autore: Luigi Mascolo
-Email: luigi.mascolo@example.com
-LinkedIn: linkedin.com/in/luigimascolo
+Email: luigimascolo123@gmail.com
 
 ## 📜 Licenza
 Questo progetto è distribuito sotto licenza MIT.
