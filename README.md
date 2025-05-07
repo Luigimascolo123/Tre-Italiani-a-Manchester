@@ -39,11 +39,9 @@ File principali:
 ## 🚀 Come iniziare
 1️⃣ Prerequisiti
 Assicurati di avere installato: **Python 3**
-
 Librerie: **Pandas, Numpy, Seaborn, Matplotlib**
 
 2️⃣ Clonare il repository
-Clone repository and start services
 git clone [repository_URL]
 cd [file Jupyter d'interesse]
 
