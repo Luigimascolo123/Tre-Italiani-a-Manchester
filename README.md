@@ -1,8 +1,10 @@
-## 📊 Progetto: Tre Italiani a Manchester 🏟️
+# Progetto: Tre Italiani a Manchester 🏟️
+
+## 📝 Introduzione
 Benvenuti nel repository "Tre Italiani a Manchester", un progetto che esplora ed analizza dati calcistici della Premier League per raccontare storie attraverso i numeri.
 Questo progetto è stato sviluppato utilizzando strumenti di **data analysis** e visualizzazione per creare un quadro chiaro e dettagliato delle partite e delle performance dei giocatori.
 
-## 📝 Descrizione del progetto
+## 📊 Descrizione del progetto
 Il progetto si concentra sull'analisi di dati storici della Premier League con un focus particolare sull'estrazione di informazioni rilevanti come:
 
 - Analisi dettagliata degli eventi in campo (passaggi, tiri, falli, ecc.).
@@ -18,13 +20,14 @@ Il progetto si concentra sull'analisi di dati storici della Premier League con u
 ## 📂 Struttura del progetto
 File principali:
 
-**1**. Progetto_Tre_italiani_a_Manchester.ipynb – Notebook contenente il codice Python per l'analisi e la visualizzazione dei dati.
+1. **Progetto_Tre_italiani_a_Manchester.ipynb** – Notebook contenente il codice Python per l'analisi e la visualizzazione dei dati.
 
-**2**. 20-21_plEventsData.csv – Dataset utilizzato per l'analisi, contenente oltre 600.000 eventi calcistici della Premier League.
+2. **20-21_plEventsData.csv** – Dataset utilizzato per l'analisi, contenente oltre 600.000 eventi calcistici della Premier League.
 
-**3**. Arsenal_AI_assistant.ipynb - File contenente l'assistente AI che ci aiuta a prendere decisioni per la partita successiva analizzando le partite precedenti. 
+3. **Arsenal_AI_assistant.ipynb** - File contenente l'assistente AI che ci aiuta a prendere decisioni per la partita successiva analizzando le partite precedenti. 
 
 ## 🔧 Tecnologie utilizzate
+
 - Linguaggi : Python
 
 - Librerie per l'Analisi Dati : Pandas, Numpy
@@ -35,18 +38,12 @@ File principali:
 
 ## 🚀 Come iniziare
 1️⃣ Prerequisiti
-Assicurati di avere installato:
+Assicurati di avere installato: **Python 3**
 
-Python 3.x
-
-Librerie: pandas, numpy, seaborn, matplotlib
+Librerie: **Pandas, Numpy, Seaborn, Matplotlib**
 
 2️⃣ Clonare il repository
-bash
-Copy
-Edit
-git clone https://github.com/Luigimascolo123/Tre-Italiani-a-Manchester.git
-cd Tre-Italiani-a-Manchester
+
 3️⃣ Eseguire il notebook
 Apri il file Progetto_Tre_italiani_a_Manchester.ipynb in Google Colab o Jupyter Notebook e segui le istruzioni.
 
